@@ -1,6 +1,7 @@
 module:
   description: Spring Boot to demonstrate garden deployment.
   type: container
+  kind: deploy
   name: roukou
   hotReload:
     sync:

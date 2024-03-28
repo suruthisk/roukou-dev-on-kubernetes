@@ -1,4 +1,5 @@
 project:
+  kind: deploy
   name: garden-tutorial
   environments:
     - name: local

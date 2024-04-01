@@ -1,4 +1,5 @@
 project:
+  kind: delpoy
   name: garden-tutorial
   environments:
     - name: local

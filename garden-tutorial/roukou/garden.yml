@@ -1,4 +1,5 @@
 module:
+  kind: deploy
   description: Spring Boot to demonstrate garden deployment.
   type: container
   name: roukou
